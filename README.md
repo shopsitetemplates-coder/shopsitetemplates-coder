@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Ricky 👋
 
-<!--
-**shopsitetemplates-coder/shopsitetemplates-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sole proprietor, developer, and builder behind **Shop Site Templates** and **Studio 105**. I specialize in creating fast-loading, hand-coded HTML, CSS, and JavaScript website templates built for maximum performance and zero bloat.
 
-Here are some ideas to get you started:
+### 🚀 What I Do
+- **Minimalist Web Development:** Hand-crafted, single-file HTML/CSS/JS code structures.
+- **Speed & Optimization:** Performance-first workflows hitting 90+ PageSpeed Insights scores.
+- **Audio & Digital Solutions:** Studio recording, custom song creation, and clean web deployments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+- **Frontend:** Pure HTML5, CSS3, Modern Vanilla JavaScript (Inline & Self-Contained)
+- **Editors & Tools:** VS Code, Squoosh.app (AVIF/WebP Compression)
+- **Deployment & Hosting:** Hostinger (SFTP), Stripe Integration
+
+---
+🌐 **Website:** [shopsitetemplates.com](https://shopsitetemplates.com)  
+✍️ **Blog:** [DEV Community](https://dev.to/shopsitetemplates)
